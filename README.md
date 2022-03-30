@@ -18,6 +18,7 @@ using iMDB Id call the API for the movie information.
 
 ![App Screenshot](https://github.com/Equinox0606/Movie-Recommender-System/blob/b5a8c66ecb09c68aa11273e648c4543067c58bf8/Images/Opera%20Snapshot_2022-03-30_235305_localhost.png?raw=true)
 
+
 ![App Screenshot](https://github.com/Equinox0606/Movie-Recommender-System/blob/main/Images/Opera%20Snapshot_2022-03-30_235142_localhost.png?raw=true)
 
 
